@@ -34,7 +34,7 @@ Users can download the results or save them for further analysis.
  <img src="https://raw.githubusercontent.com/sahilkapase/Pothole-detection-Using-YOLOv8/main/Result.jpg" alt="Sample Result" width="400"/>
 
 
-
+ <img src="https://github.com/sahilkapase/Pothole-detection-Using-YOLOv8/blob/main/Screenshot%202025-07-24%20231902.png" alt="Sample Result" width="400"/>
 
 Project Structure
 
