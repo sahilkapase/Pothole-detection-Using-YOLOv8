@@ -31,6 +31,7 @@ Maintenance costs are estimated using the BOM provided by the PWD.
 Results Display:
 The processed image, pothole area, and estimated cost are displayed on the web interface.
 Users can download the results or save them for further analysis.
+ <img src="result.png" alt="Sample 1" width="400"/>
 
 
 
